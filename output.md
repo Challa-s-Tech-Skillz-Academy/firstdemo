@@ -40,8 +40,6 @@ Install .NET 6/7/8 using the below link.
 
 <https://dotnet.microsoft.com/en-us/download/dotnet>
 
-## 
-
  ![image2 | 100x100](./media/image2.PNG)
 
 Please make sure you download the Installers, depending on the Operating
@@ -56,7 +54,7 @@ administrator".
 
 ## 2. .NET commands
 
-\`dotnet\`
+ dotnet
 
 ![image3 | 100x100](./media/image3.PNG)
 
