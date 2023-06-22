@@ -2,7 +2,7 @@
 
 ### Date Time: 29-June-2023 at 10:00 AM IST
 
-![](./media/image1.emf)
+![test | 100x100](./media/image1.emf)
 
 ## Prerequisites:
 
