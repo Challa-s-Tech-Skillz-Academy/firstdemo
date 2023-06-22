@@ -54,11 +54,9 @@ administrator".
 
 ## 2. .NET commands
 
- 
  ```
 dotnet
 ```
-
 ![image3 | 100x100](./media/image3.PNG)
 
 ```
