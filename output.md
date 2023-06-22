@@ -22,17 +22,17 @@ N/A
 
 ## What are we doing today?
 
-\> 1. Installation of .NET 6/7/8
+> 1. Installation of .NET 6/7/8
 
-\> 2. .NET commands
+> 2. .NET commands
 
-\> 3. Creating feature branch
+> 3. Creating feature branch
 
-\> 4. Publishing the feature branch
+> 4. Publishing the feature branch
 
-\> 5. Running a Console Application with Top Level Programs
+> 5. Running a Console Application with Top Level Programs
 
-\> 6. Running a Console Application without Top Level Programs
+> 6. Running a Console Application without Top Level Programs
 
 ## 1. Installation of .NET 6/7/8
 
