@@ -54,7 +54,10 @@ administrator".
 
 ## 2. .NET commands
 
- dotnet
+ 
+ ```
+dotnet
+```
 
 ![image3 | 100x100](./media/image3.PNG)
 
@@ -64,23 +67,33 @@ dotnet -h
 
 ![image4 | 100x100](./media/image4.PNG)
 
-\`dotnet --info\`
+```
+dotnet --info
+```
 
 ![image5 | 100x100](./media/image5.PNG)
 
-\`dotnet \--list-sdks\`
+```
+dotnet \--list-sdks
+```
 
 ![image6 | 100x100](./media/image6.PNG)
 
-\`dotnet new -h\`
+```
+dotnet new -h
+```
 
 ![image7 | 100x100](./media/image7.PNG)
 
-\`dotnet new list\`
+```
+dotnet new list
+```
 
 ![image8 | 100x100](./media/image8.PNG)
 
-\`dotnet new console -h\`
+```
+dotnet new console -h
+```
 
 ![image9 | 100x100](./media/image9.PNG)
 
@@ -121,25 +134,40 @@ Now open the GitHub for desktop
 
 ![image15 | 100x100](./media/image15.PNG)
 
-\`dotnet new console -o firstsample \--dry-run\`
+```
+dotnet new console -o firstsample --dry-run
+```
 
 ![image16 | 100x100](./media/image16.PNG)
-\`dotnet new console -o firstsample\`
 
-\`dotnet restore\`
+```
+dotnet new console -o firstsample
+```
 
-\`dotnet build\`
+```
+dotnet restore
+```
 
-\`dotnet run\`
+```
+dotnet build
+```
+
+```
+dotnet run
+```
 
 **Console Application with and without Top Level Statements**
 
- \`dotnet new console -o demo1 \--use-program-main\`
+ ```
+ dotnet new console -o demo1 --use-program-main
+```
 
 ![image17 | 100x100](./media/image17.PNG)
 
 ## 6. Running a Console Application with Top Level Programs
 
-## \`dotnet new console -o demo2\`
+```
+dotnet new console -o demo2
+```
 
 ![image18 | 100x100](./media/image18.PNG)
