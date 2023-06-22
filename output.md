@@ -18,7 +18,7 @@ N/A
 
 ## Information
 
-## Information \| 100x100
+![Information | 100x100](./media/Information.PNG)
 
 ## What are we doing today?
 
