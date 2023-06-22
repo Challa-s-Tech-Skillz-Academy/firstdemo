@@ -42,7 +42,7 @@ Install .NET 6/7/8 using the below link.
 
 ## 
 
-## ![](./media/image2.png){width="6.268055555555556in" height="2.501388888888889in"} 
+ ![image2 | 100x100](./media/image2.PNG)
 
 Please make sure you download the Installers, depending on the Operating
 System on your respective machines.
@@ -58,44 +58,31 @@ administrator".
 
 \`dotnet\`
 
-![A blue screen with white textDescription automatically generated with
-medium confidence](./media/image3.png){width="3.8958333333333335in"
-height="2.09375in"}
+![image3 | 100x100](./media/image3.PNG)
 
 \`dotnet -h\`
 
-![A screenshot of a computer program Description automatically generated
-with medium confidence](./media/image4.png){width="6.5in"
-height="4.563888888888889in"}
+![image4 | 100x100](./media/image4.PNG)
 
 \`dotnet --info\`
 
-![A screenshot of a computer Description automatically
-generated](./media/image5.png){width="6.5in"
-height="5.795833333333333in"}
+![image5 | 100x100](./media/image5.PNG)
 
 \`dotnet \--list-sdks\`
 
-![A computer screen with white text Description automatically generated
-with low confidence](./media/image6.png){width="6.5in"
-height="1.4381944444444446in"}
+![image6 | 100x100](./media/image6.PNG)
 
 \`dotnet new -h\`
 
-![](./media/image7.png){width="6.260416666666667in"
-height="2.6041666666666665in"}
+![image7 | 100x100](./media/image7.PNG)
 
 \`dotnet new list\`
 
-![A screen shot of a computer Description automatically generated with
-medium confidence](./media/image8.png){width="6.5in"
-height="5.491666666666666in"}
+![image8 | 100x100](./media/image8.PNG)
 
 \`dotnet new console -h\`
 
-![A screenshot of a computer Description automatically
-generated](./media/image9.png){width="6.5in"
-height="3.6180555555555554in"}
+![image9 | 100x100](./media/image9.PNG)
 
 ## 3. Creating feature branch
 
@@ -109,48 +96,34 @@ Now open the GitHub for desktop
     **UserName/Date-task-description. Example --
     ravi/21june-T101-learning-csharp**
 
-![A screenshot of a computer program Description automatically generated
-with medium confidence](./media/image10.png){width="4.615227471566055in"
-height="1.9690244969378827in"}
+![image10 | 100x100](./media/image10.PNG)
 
-![A screenshot of a computer Description automatically generated with
-medium confidence](./media/image11.png){width="4.073485345581802in"
-height="2.6566207349081363in"}
+![image11 | 100x100](./media/image11.PNG)
 
 ## 4. Publishing the feature branch
 
 1.  **Publish the** feature branch by clicking on Publish branch.
 
-> ![A screenshot of a computer Description automatically generated with
-> medium confidence](./media/image12.png){width="6.355053587051619in"
-> height="1.698153980752406in"}
+![image12 | 100x100](./media/image12.PNG)
 
 2.  Now navigate to the folder by clicking on Show in Explorer
 
-![](./media/image13.png){width="6.230036089238845in"
-height="2.604529746281715in"}
+![image13 | 100x100](./media/image13.PNG)
 
 3.  Copy the path.
 
-![A screenshot of a computer Description automatically generated with
-medium confidence](./media/image14.png){width="6.5in"
-height="1.7416666666666667in"}
+![image14 | 100x100](./media/image14.PNG)
 
 4.  Switch back to the tool your using (Power Shell, cmd, Git Bash,
     Terminal)
 
 5.  cd to the copied path
 
-![A screen shot of a computer Description automatically generated with
-medium confidence](./media/image15.png){width="4.344355861767279in"
-height="1.6668996062992125in"}
+![image15 | 100x100](./media/image15.PNG)
 
 \`dotnet new console -o firstsample \--dry-run\`
 
-![A blue screen with white text Description automatically generated with
-medium confidence](./media/image16.png){width="4.21875in"
-height="1.3854166666666667in"}
-
+![image16 | 100x100](./media/image16.PNG)
 \`dotnet new console -o firstsample\`
 
 \`dotnet restore\`
@@ -161,16 +134,12 @@ height="1.3854166666666667in"}
 
 **Console Application with and without Top Level Statements**
 
-> \`dotnet new console -o demo1 \--use-program-main\`
->
-> ![A screenshot of a computer program Description automatically
-> generated with medium confidence](./media/image17.png){width="6.5in"
-> height="3.4916666666666667in"}
+ \`dotnet new console -o demo1 \--use-program-main\`
+
+![image17 | 100x100](./media/image17.PNG)
 
 ## 6. Running a Console Application with Top Level Programs
 
 ## \`dotnet new console -o demo2\`
 
-![A screenshot of a computer program Description automatically generated
-with medium confidence](./media/image18.png){width="6.5in"
-height="3.638888888888889in"}
+![image18 | 100x100](./media/image18.PNG)
