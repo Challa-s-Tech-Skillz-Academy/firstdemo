@@ -2,7 +2,7 @@
 
 ### Date Time: 29-June-2023 at 10:00 AM IST
 
-![test | 100x100](./media/Ravi_Demo.PNG)
+![test | 100x100](./media/Ravi.PNG)
 
 ## Prerequisites:
 
