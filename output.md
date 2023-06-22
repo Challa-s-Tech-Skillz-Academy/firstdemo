@@ -58,7 +58,9 @@ administrator".
 
 ![image3 | 100x100](./media/image3.PNG)
 
-\`dotnet -h\`
+```
+dotnet -h
+```
 
 ![image4 | 100x100](./media/image4.PNG)
 
