@@ -58,17 +58,13 @@ administrator".
 dotnet
 ```
 ![image3 | 100x100](./media/image3.PNG)
-
 ```
 dotnet -h
 ```
-
 ![image4 | 100x100](./media/image4.PNG)
-
 ```
 dotnet --info
 ```
-
 ![image5 | 100x100](./media/image5.PNG)
 
 ```
