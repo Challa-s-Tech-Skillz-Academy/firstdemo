@@ -1,6 +1,6 @@
 ### Installation of .NET & Running a Console Application 
 
-### Date Time: 29-June-2023 at 10:00 AM IST
+### Date Time: 29-June-2023 at 11:00 AM IST
 
 ![test | 100x100](./media/Ravi_Demo.PNG)
 
